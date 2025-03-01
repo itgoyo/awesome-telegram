@@ -2,7 +2,6 @@
  * @Description:
  * @telegram: @tghzsx_bot
 -->
-## 声明
 <div align="center">
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。
 
