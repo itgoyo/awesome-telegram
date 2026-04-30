@@ -173,6 +173,7 @@
 | B站视频下载       | [@bilifeedbot](https://t.me/bilifeedbot)     | B站下载                                 |
 | Pixiv下载          | [@Pixiv_bot](https://t.me/Pixiv_bot)          | Pixiv下载                                |
 | 电影搜索机器人     | [@Cctv365bot](https://t.me/Cctv365bot)        | 电影搜索机器人                          |
+| Cyber Collector    | [@cybercollectorbot](https://t.me/cybercollectorbot) | 免费下载 TikTok（无水印）、Instagram Reels/Stories、YouTube+Shorts、X/Twitter、Facebook 视频。无需注册，无广告。[官网](https://cybercollector.hitkey.io) |
 
 #### 其他有趣机器人
 | 名字     | 链接 | 功能描述     |
