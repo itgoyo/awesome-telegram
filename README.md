@@ -70,6 +70,7 @@
 | :---        |    :----:   |          :--- |
 | 区块链助手      | [@QueryTokenBot](https://t.me/QueryTokenBot?start=invite_7439567495)       |能量闪租、TRX兑换、地址交易查询、地址实时监听、余额查询、飞机查群|
 | 创建自己的机器人      | [@BotFather](https://t.me/BotFather)       |可以创建和管理专属机器人的地方，开发者会获得一个API令牌，用于控制机器人并接入Telegram API  |
+| Weight Goal Bot      | [@my_weight_goal_bot](https://t.me/my_weight_goal_bot)       |群组每周减重目标、照片打卡、进度图、提醒和 53 周成就，支持中文、英语和俄语。[Apache-2.0 开源代码](https://github.com/IgorShadurin/weight-telegram-bot) |
 | 群管理机器人      | [@nmnmfunbot](https://t.me/nmnmfunbot)       |中文用户使用最多的群管理机器人，几乎什么功能都有  |
 | 群管理机器人      | [@GroupHelpBot](https://t.me/GroupHelpBot)       |根据自己群组的需要设定一系列的自动化内容，如欢迎语、跳转到社媒账号或独立站、删除信息、警告用户等  |
 | 群管理机器人      | [@WeGroupRobot](https://t.me/WeGroupRobot)       |专为管理和优化群组聊天体验而设计。它可以帮助群组管理员简化日常管理任务，提高群组的互动质量 |
