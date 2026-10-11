@@ -124,6 +124,7 @@
 | 进群验证问题   | [@orgrobot](https://t.me/orgrobot)        | 进群验证问题,群管可自定义验证问题,以后可能收费      |
 | 谷歌人机验证      | [@fuckuspambot](https://t.me/fuckuspambot)       | 过滤机器人已经支持入群的时候使用谷歌人机验证了。  |
 | 入群验证bot      | [@shieldy_bot](https://t.me/shieldy_bot)       | 入群验证bot  |
+| 加群申请审核      | [@JoinApproveProBot](https://t.me/JoinApproveProBot)       | 管理员审核入群请求，可一键批准或拒绝，支持设置审核问题 |
 | 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
 
 #### 欢迎
@@ -189,6 +190,8 @@
 | 删除阿拉伯文消息      | [@AntiArabicScriptBot](https://t.me/AntiArabicScriptBot)       | removes all messages which contain arabic script  |
 | 保护群组防止垃圾信息      | [@SpamMeNotBot](https://t.me/SpamMeNotBot)       | protects your group from spam/flood attacks  |
 | 删除含命令消息   | [@AntiCommandBot](https://t.me/AntiCommandBot)        | removes all messages which contain a /command      |
+| 你是哪种人测试   | [@WhichOneAreYouBot](https://t.me/WhichOneAreYouBot)        | 群内投票测试游戏，成员回答问题看自己属于哪种人      |
+| 真心话大冒险     | [@TruthDareFriendsBot](https://t.me/TruthDareFriendsBot)       | 群聊真心话大冒险游戏，支持自定义题目      |
 | More useful bots for group owners      | [@GroupOwnerBot](https://t.me/GroupOwnerBot)       | More useful bots for group owners  |
 | 文件与链接检测      | [@drwebbot](https://t.me/drwebbot)       | Dr.Web（大蜘蛛）公司推出了一个实验性的 Telegram Bot，它可以检查网页链接和文件，并在包含威胁时发出警告。单文件限制20M（Aquamarine）  |
 | 群组清理大师      | [@GroupCleanupMasterBot](https://t.me/GroupCleanupMasterBot)       | 群组清理大师智能清除广告  |
